@@ -1,7 +1,16 @@
 # 📊 Diagnóstico y Comunicación de Insights Organizacionales
-### Evaluación Módulo 9 – Fundamentos de la Narrativa de Datos | Alkemy
+### Evaluación Módulo 9 – Fundamentos de la Narrativa de Datos
 
 ---
+
+## 👤 Información del Estudiante
+
+- **Nombre:** Germán Riveros Sepúlveda  
+- **Curso:** RTD-25-01-01-0002-1  
+- **Jornada:** Vespertina  
+
+---
+
 
 ## 📍 Situación Inicial
 
