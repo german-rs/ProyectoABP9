@@ -178,4 +178,4 @@ Herramienta sugerida: Datawrapper o Flourish Studio
 
 ---
 
-*Proyecto desarrollado como parte del Módulo 9 – Alkemy | 2024*
+*Proyecto desarrollado como parte del Módulo 9*
